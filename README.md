@@ -2,7 +2,7 @@
 
 <h2>1001件のTrustpilotビジネスレビューのサンプルデータセット</h2>
 
-![Trustpilot dataset header](https://github.com/luminati-io/Trustpilot-dataset-sample/blob/main/Trustpilot-datasets%20(2).png)
+![Trustpilot dataset header](https://github.com/bright-jp/Trustpilot-dataset-sample/blob/main/Trustpilot-datasets%20(2).png)
 
 1000件以上のレコードを含む、Trustpilotのソフトウェア製品レビューのデータセットサンプルです。本データセットは <b>Bright Data API</b> を使用して抽出されました。
 
