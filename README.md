@@ -1,60 +1,60 @@
 # Trustpilot-dataset-samples
 
-<h2>A sample dataset of 1001 Trustpilot business reviews</h2>
+<h2>1001件のTrustpilotビジネスレビューのサンプルデータセット</h2>
 
 ![Trustpilot dataset header](https://github.com/luminati-io/Trustpilot-dataset-sample/blob/main/Trustpilot-datasets%20(2).png)
 
-A Trustpilot sofware product reviews dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
+1000件以上のレコードを含む、Trustpilotのソフトウェア製品レビューのデータセットサンプルです。本データセットは <b>Bright Data API</b> を使用して抽出されました。
 
-<h2>Some of the data points that are included in the Trustpilot dataset:</h2>
+<h2>Trustpilotデータセットに含まれるデータポイントの一部:</h2>
 
-* ```company_name```: The name of the company
-* ```review_id```: Unique to each review
-* ```review_date```: The date the review was written
-* ```review_rating```: The rating given by the reviewer
-* ```review_title```: The title of the review
-* ```review_content```: The content of the review
-* ```is_verified_review```: True or False values
-* ```review_date_of_experience```: The date the reviewer received the service
-* ```reviewer_location```: Geographical location of the reviewer
-* ```reviews_posted_overall```: The amount of reviews written by the reviewer
-* ```review_replies```: Responses received from the company on the review
-* ```review_useful_count```: Likes received by other users on the review
-* ```reviewer_name```: Reviewer name
-* ```company_logo```: URL that links to the company logo
-* ```url```: URL that links directly to the main reviews page
-* ```company_rating_name```: Company rating in words
-* ```company_overall_rating```: Company rating in numbers between 1 to 5
-* ```is_verified_company```: True or False values
-* ```company_total_reviews```: The total number of reviews and their percentage distribution
-* ```5_star```: The number of reviews rated 5 stars and their percentage of total reviews
+* ```company_name```: 会社名です
+* ```review_id```: 各レビュー固有のIDです
+* ```review_date```: レビューが書かれた日付です
+* ```review_rating```: レビュアーが付与した評価です
+* ```review_title```: レビューのタイトルです
+* ```review_content```: レビューの内容です
+* ```is_verified_review```: True または False の値です
+* ```review_date_of_experience```: レビュアーがサービスを受けた日付です
+* ```reviewer_location```: レビュアーの地理的所在地です
+* ```reviews_posted_overall```: レビュアーが書いたレビューの総数です
+* ```review_replies```: レビューに対して会社から受け取った返信です
+* ```review_useful_count```: 他のユーザーからレビューに付いた「いいね」の数です
+* ```reviewer_name```: レビュアー名です
+* ```company_logo```: 会社ロゴへリンクするURLです
+* ```url```: メインのレビューページへ直接リンクするURLです
+* ```company_rating_name```: 言葉による会社評価です
+* ```company_overall_rating```: 1〜5の数値で表された会社評価です
+* ```is_verified_company```: True または False の値です
+* ```company_total_reviews```: レビューの総数と、その割合分布です
+* ```5_star```: 5つ星評価のレビュー数と、全レビューに占める割合です
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Trustpilot business review (public data)"
-dataset which includes more than <b>210M records</b>.
+これは「Trustpilot business review (public data)」データセットから派生したサンプルサブセットであり、
+このデータセットには <b>210M件以上のレコード</b> が含まれます。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, または Parquet。.gz への圧縮も任意で可能です</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセットの配信方法オプション: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>Once, Daily, Weekly, Monthly, Quarterly, または Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出したデータポイントに追加できるデータエンリッチメント: <b>Based on request.</b>
 
-<b>[Get the full Trustpilot dataset](https://brightdata.com/products/datasets/trustpilot)</b>.
+<b>[Trustpilotのフルデータセットを取得する](https://brightdata.jp/products/datasets/trustpilot)</b>。
 
-<h2>What are the Trustpilot datasets use cases?</h2>
+<h2>Trustpilotデータセットのユースケースは何ですか？</h2>
 
-<h3>1. Monitor Customer Satisfaction</h3>
-Leverage Trustpilot reviews to assess customer satisfaction levels, uncovering recurring themes, trends, or issues related to different services or products. This analysis helps identify areas for improvement, ensuring a better customer experience and enabling data-driven decisions to enhance your offerings.
+<h3>1. 顧客満足度のモニタリング</h3>
+Trustpilotのレビューを活用して顧客満足度のレベルを評価し、さまざまなサービスや製品に関連する繰り返し現れるテーマ、傾向、課題を明らかにします。この分析により改善すべき領域を特定でき、より良い顧客体験を確実にし、提供内容を強化するためのデータドリブンな意思決定が可能になります。
 
-<h3>2. Discover New Trends</h3>
-Track and analyze the volume and sentiment of reviews over time to gauge the impact of new products, features, or marketing campaigns on customer perception. This trend monitoring helps you stay informed on shifts in customer opinion and adjust strategies accordingly to optimize engagement and satisfaction.
+<h3>2. 新しいトレンドの発見</h3>
+時間の経過に伴うレビューの件数とセンチメントを追跡・分析し、新製品、機能、またはマーケティングキャンペーンが顧客の認識に与える影響を把握します。このトレンド監視により、顧客意見の変化を把握し、エンゲージメントと満足度を最適化するために戦略を適切に調整できます。
 
-<h3>3. Competitive Benchmarking</h3>
-Utilize Trustpilot data to compare customer satisfaction scores and review content across competitors. This allows you to identify your competitors' strengths and weaknesses, providing valuable insights to improve your own strategies and enhance customer satisfaction.
+<h3>3. 競合ベンチマーキング</h3>
+Trustpilotデータを利用して、競合他社間で顧客満足度スコアやレビュー内容を比較します。これにより、競合の強みと弱みを特定でき、自社の戦略を改善し顧客満足度を高めるための有益なインサイトを得られます。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会的課題を推進する主要な学術部門および研究者、NGOおよびNPOに対して、Bright Dataの <b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b> と <b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b> へのアクセスを提供します。申請は <b>[こちら](https://brightinitiative.com)</b> から提出できます。
