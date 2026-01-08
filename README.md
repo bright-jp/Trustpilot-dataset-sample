@@ -1,4 +1,4 @@
-# Trustpilot-dataset-samples
+# Trustpilot データセットサンプル
 
 <h2>1001件のTrustpilotビジネスレビューのサンプルデータセット</h2>
 
